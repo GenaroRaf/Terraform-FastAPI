@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"fastapi_server_client","Source":"./fastapi_server_module_client","Dir":"fastapi_server_module_client"},{"Key":"fastapi_server_host","Source":"./fastapi_server_module_host","Dir":"fastapi_server_module_host"}]}
